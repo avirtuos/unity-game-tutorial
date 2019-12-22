@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{CC7C3050-0A5C-1E6B-875C-6E62B7BC0334}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MonoBehaviours/FireMissle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MonoBehaviours/Character.cs" Line="9" Column="33" />
+      <File FileName="Assets/Scripts/MonoBehaviours/Player.cs" Line="12" Column="34" />
+      <File FileName="Assets/Scripts/MonoBehaviours/MovementController.cs" Line="95" Column="4" />
+      <File FileName="Assets/Scripts/ScriptableObjects/Item.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/Scriptable Objects/Item.cs" Line="7" Column="37" />
+      <File FileName="Assets/Scripts/MonoBehaviours/Consumables.cs" Line="7" Column="19" />
+      <File FileName="Assets/Scripts/MonoBehaviours/Consumable.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/MonoBehaviours/DogFollow.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/HitPoints.cs" Line="6" Column="42" />
+      <File FileName="Assets/Scripts/MonoBehaviours/HealthBar.cs" Line="22" Column="4" />
+      <File FileName="Assets/Scripts/Item.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MonoBehaviours/FireMissle.cs" Line="24" Column="4" />
+      <File FileName="Assets/Scripts/MonoBehaviours/Deer.cs" Line="15" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RPG_Tutorial" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MonoBehaviours" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RPG_Tutorial" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9f5bd31d-23f4-4586-af48-2f10bce42703" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

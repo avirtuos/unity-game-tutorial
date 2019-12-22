@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - CanBePickedUp
+  - SideKick
+  - WaterHazard
+  - Tornado
+  - FireMissle
+  - Deer
   layers:
   - Default
   - TransparentFX
@@ -15,9 +21,9 @@ TagManager:
   - 
   - 
   - Blocking
-  - 
-  - 
-  - 
+  - Consumables
+  - Enemies
+  - SideKick
   - 
   - 
   - 
@@ -44,6 +50,9 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 3868190607
+    locked: 0
+  - name: WaterHazard
+    uniqueID: 1881505713
     locked: 0
   - name: Objects
     uniqueID: 3450528019

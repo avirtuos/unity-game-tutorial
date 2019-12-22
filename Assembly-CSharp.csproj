@@ -70,7 +70,16 @@
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
-    <Compile Include="Assets\Scripts\MovementController.cs" />
+    <Compile Include="Assets\Scripts\HitPoints.cs" />
+    <Compile Include="Assets\Scripts\Item.cs" />
+    <Compile Include="Assets\Scripts\MonoBehaviours\Character.cs" />
+    <Compile Include="Assets\Scripts\MonoBehaviours\Consumable.cs" />
+    <Compile Include="Assets\Scripts\MonoBehaviours\Deer.cs" />
+    <Compile Include="Assets\Scripts\MonoBehaviours\DogFollow.cs" />
+    <Compile Include="Assets\Scripts\MonoBehaviours\FireMissle.cs" />
+    <Compile Include="Assets\Scripts\MonoBehaviours\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\MonoBehaviours\MovementController.cs" />
+    <Compile Include="Assets\Scripts\MonoBehaviours\Player.cs" />
     <Reference Include="Cinemachine">
       <HintPath>/Users/virtuoso/Documents/Unity/RPG_Tutorial/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
